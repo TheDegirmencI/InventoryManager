@@ -85,16 +85,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+"Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem geliştirmektir. Sistem, mermer resimlerini analiz etmek ve boyut, şekil ve yüzey kusurları gibi çeşitli faktörlere dayalı olarak kalitelerini belirlemek için görüntü işleme tekniklerini kullanacaktır. Sistemin çıktısı, mermerin genel kalitesini gösteren bir puanın yanı sıra dikkate alınan belirli faktörleri özetleyen ayrıntılı bir rapor olacaktır. Bu proje, üretim ortamlarında mermer kalite kontrolünün verimliliğini ve doğruluğunu artırmak ve mermer kalitesini değerlendirmek için daha tutarlı ve objektif bir yöntem sağlamak amacıyla geliştirilmektedir. Proje ekibi, görüntü işleme ve proje geliştirme konusunda uzman 7 üyeden oluşmaktadır "
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Translated with www.DeepL.com/Translator (free version)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

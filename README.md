@@ -64,7 +64,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Projenin-Kullanımı">Projenin Kullanımı</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -141,7 +141,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Projenin Kullanımı
 Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:
 
 1. Web sitemizi ziyaret edin: [http://mds23.pythonanywhere.com/]

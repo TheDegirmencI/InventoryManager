@@ -116,15 +116,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 | Kişi  | Görevi |
 | :-----: | :---: | 
-| 170541050 Batuhan Şen | Back End dev.|
-| 180541072 Abdurrahman Pülat | Test Engineer|
-| 170541028 Abdullah Yıldız | QA Engineer |
-| 180541062 Salihcan Özdemir   | Front End dev. | 
-| 180541068 Abdullah Samet Bayraktar   | Back End dev.  | 
-| 180542012 Bünyamin Kiremit   | Yapay zeka dev. | 
-| 180542010 Mehmetcan Tozlu   | Yapay zeka dev. | 
-| 190541014 Hasan Demir  | Yapay zeka dev. | 
-| 190541018 Ömer Faruk Konca  | Yapay zeka dev.| 
+| 170541050 Osman Karadeniz | Back End dev.|
+| 180541072 Gönenç Değirmencioğlu | Test Engineer|
+| 200541083 Ali Kadir Bulut | QA Engineer |
+| 180541062 Ercan Satık   | Front End dev. | 
 | 190541004 Ali İmran Atabey  | Yapay zeka dev.| 
 | 190541087 Seydi Sarıtaş   | Front End dev. - Scrum Master | 
 | 210541101 Aslan Koyuncu | Back end dev. |
@@ -147,7 +142,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | Abdullah Samet bayraktar |  MVC / Auth [POC][13Sp] | 13sp |
 | Aslan Koyuncu | Veritabanı Karşılaştırması(MongoDB, PostgreSQL)[13sp] | 13sp
 
-### Sprint 1 çıktıları: 
+### Sprint 1 Sonuçları
 Herkesin iyi olduğu alanları belirledik ve herkese ona göre iş dağılımı yaptık. 
 ## Sprint - 2
 
@@ -166,19 +161,13 @@ Herkesin iyi olduğu alanları belirledik ve herkese ona göre iş dağılımı 
 | Aslan Koyuncu | DigitalOgean vs heroku araştırması [13sp] | 13sp |
 | Abdullah Samet bayraktar | MVC / Auth Kurulumu [13Sp] | 13sp |
 
-### Sprint 2 çıktıları: 
+### Sprint 2 Sonuçları
 Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre dağıtırsak gün sonunda projeyi entegre edip ayağa kaldırmamız mümkün olmayacak. Örneğin Sprint1 sonucunda kafamızdaki düşünce şu şekildeydi
 - authentication geliştirmelerini .net ile yapalım 
 - şifreleme (blokzincir) geliştirmelerini .net tarafında yapalım
 - image'i karşılayacak api'yi flask ile yazalım
-### Sprint 2 sonucunda ise:
-- authentication geliştirmeleri için sıfırdan bir yapıp kurmak yerine Auth0 modülünü kullanalım
-- Şifreleme geliştirmelerini yapmayalım.(Zamanımız yok vizeler geliyor)
-- Api'leri tamamını flask'da yazalım
-- Derin öğrenme uygulamasında sınıflandırma modellerini oluşturalım. Her sprint yeni bir özelliği mevcut modele entegre edelim. Bu sprint sonunda mermerin çatlak,damarlı,kırık gibi özelliklerini çıkartalım şeklinde kararlar aldık. 
-- İlk özelliğimizi eğittik. Renk Sınıflandırma işlemlerini tamamladık.
 
-## Sprint - 3
+## Sprint 3
 
 | Assigned to  | User Story  | Toplam SP |
 | :-----: | :---: | :---: |
@@ -195,7 +184,7 @@ Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre d
 | Aslan Koyuncu | DigitalOgean docker kurulumu [13sp] | 13sp |
 | Abdullah Samet bayraktar | Flask-Web api yazılması [13Sp] | 13sp |
 
-### Sprint 3 çıktıları : 
+### Sprint 3 Sonuçları 
 - Sprint 3 sonucunda authentication işlemleri için kullandığımız auth0 modülünü uygulamamıza entegre ettik ve yayına aldık.
 - İkinci özelliğimizi eğittik. Desen özelliklerine göre sınıflandırma işlemlerini tamamladık
 - Flask framework'ünü öğrendik 
@@ -203,7 +192,7 @@ Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre d
 - Flask uygulamasını nigx ile configure ettik --> --> http://137.184.189.251/api
 - Login sayfasının test otomasyon süreçlerini tamamladık.
 
-## Sprint - 4
+## Sprint 4
 
 | Assigned to  | User Story  | Toplam SP |
 | :-----: | :---: | :---: |
@@ -220,7 +209,7 @@ Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre d
 | Aslan Koyuncu | Güvenlik açıklarının araştırılması(Pentest, netsparker taraması) [13sp] | 13sp  |
 | Abdullah Samet bayraktar | Vercel vs AWS hosting karşılaştırılması [SPIKE] [5SP] | 5sp |
 
-### Sprint 4 çıktıları : 
+### Sprint 4 Sonuçları : 
 - Modeli geliştirmeye devam ettik. Renk,çatlak,damarlı ve iyi özelliklerine göre sınıflandırma işlemlerini tamamladık.
 - Sonraki sprint noktali ve açık_orta işlemlerini tamamlamayı planladık.
 - Back-end uygulamamızı digitalocean'da yayına aldık ancak aylık 50$ ücreti olduğunu öğrenince işlemi geri çektik.(İlk ay ücretsiz özelliğini kullandık ve https protokol dönüşümü yapmamız gerektiğini burada fark ettik.)

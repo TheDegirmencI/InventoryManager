@@ -113,6 +113,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Spike Maddelerinin story point'i 5'dir
 - POC Maddelerinin story pointleri işe göre değişmektedir.
 - Her tablo bir sprint'i ifade eder.
+
 | Kişi  | Görevi |
 | :-----: | :---: | 
 | 170541050 Batuhan Şen | Back End dev.|

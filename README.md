@@ -107,40 +107,66 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Mercik Grubu 
+- https://guncel.vercel.app/
+- Her Sprint 2 haftadan oluşur
+- Story Pointler Fibonacci sayılarından oluşur(1,3,5,8,13,21) Yapılacak işin karmaşıklığını ifade eder.
+- Spike Maddelerinin story point'i 5'dir
+- POC Maddelerinin story pointleri işe göre değişmektedir.
+- Her tablo bir sprint'i ifade eder.
+| Kişi  | Görevi |
+| :-----: | :---: | 
+| 170541050 Batuhan Şen | Back End dev.|
+| 180541072 Abdurrahman Pülat | Test Engineer|
+| 170541028 Abdullah Yıldız | QA Engineer |
+| 180541062 Salihcan Özdemir   | Front End dev. | 
+| 180541068 Abdullah Samet Bayraktar   | Back End dev.  | 
+| 180542012 Bünyamin Kiremit   | Yapay zeka dev. | 
+| 180542010 Mehmetcan Tozlu   | Yapay zeka dev. | 
+| 190541014 Hasan Demir  | Yapay zeka dev. | 
+| 190541018 Ömer Faruk Konca  | Yapay zeka dev.| 
+| 190541004 Ali İmran Atabey  | Yapay zeka dev.| 
+| 190541087 Seydi Sarıtaş   | Front End dev. - Scrum Master | 
+| 210541101 Aslan Koyuncu | Back end dev. |
 
-### Prerequisites
+## Sprint - 1
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+| Assigned to  | User Story  | Toplam SP |
+| :-----: | :---: | :---: |
+| seydi sarıtaş   | Front end için kullanılacak güncel javascript frameworklerinin araştırılması[SPIKE][5sp], Next.js vs React.js[POC][13sp]| 18sp |
+| batuhan şen | MVC / Auth [POC][13Sp] | 13sp |
+| bünyamin kiremit | Veri seti araştırmaları [SPIKE][5Sp] | 5sp |
+| mehmetcan tozlu | sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |
+| ömer faruk konca | renk sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |
+| Abdurrahman Pülat | manuel, alfa,beta testi için kullanılacak araçların araştırılması[SPIKE][5sp] | 5sp |
+| hasan demir | damar sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |
+| ali imran atabey | - | 5sp |
+| batuhan şen | MVC / Auth [POC][13Sp] | 13sp |
+| abdullah yıldız | kullanılacak test otomasyonu için araştırma[SPIKE][5sp] | 5sp |
+| salihcan özdemir | 1.Kullanılacak Teknojilerin Araştırılması[SPIKE][5sp], 2. Vue.js vs Svelte.js[POC][13sp] | 18sp
+| Abdullah Samet bayraktar |  MVC / Auth [POC][13Sp] | 13sp |
+| Aslan Koyuncu | Veritabanı Karşılaştırması(MongoDB, PostgreSQL)[13sp] | 13sp
 
-### Installation
+### Sprint 1 çıktıları: 
+Herkesin iyi olduğu alanları belirledik ve herkese ona göre iş dağılımı yaptık. 
+## Sprint - 2
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+| Assigned to  | User Story  | Toplam SP |
+| :-----: | :---: | :---: |
+| seydi sarıtaş   | Next.js Kurulumu[13sp], Auth0[POC][13sp], | 26sp |
+| bünyamin kiremit | - |  |
+| mehmetcan tozlu | sınıflandırma modellerinin oluştulması[13sp] | 13sp |
+| ömer faruk konca | renk sınıflandırma modellerinin oluşturulması [13sp] | 13sp |
+| Abdurrahman Pülat | manuel test aracı testrial araştırması yapıldı [SPIKE] [5SP]| 5sp |
+| hasan demir | damar sınıflandırma modellerinin oluşturulması [13sp] | 13sp |
+| ali imran atabey | -|  |
+| batuhan şen | MVC / Auth Kurulumu [13Sp] | 13sp |
+| abdullah yıldız | selenium kurulumu [13sp] | 13sp |
+| salihcan özdemir |Tasarım araştırmaları [SPIKE] [13SP] | 13sp |
+| Aslan Koyuncu | DigitalOgean vs heroku araştırması [13sp] | 13sp |
+| Abdullah Samet bayraktar | MVC / Auth Kurulumu [13Sp] | 13sp |
 
 
-<!-- USAGE EXAMPLES -->
 ## Projenin Kullanımı
 Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:
 

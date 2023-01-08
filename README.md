@@ -142,11 +142,14 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+1. Web sitemizi ziyaret edin: [http://mds23.pythonanywhere.com/]
+2. Cihazınızdan bir mermer görüntüsü seçmek için 'Dosya Seç' düğmesine tıklayın.
+3. Görüntüyü yüklemek ve kalite analiz sürecini başlatmak için 'Gönder' düğmesine tıklayın.
+4. Sistem görüntüyü işleyecek ve ortaya çıkan kalite puanını ve raporu web sayfasında gösterecektir.
+5. Başka misketleri analiz etmek için 2-4 arası adımları tekrarlayın.
+Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edildiğini lütfen unutmayın. En iyi sonuçları elde etmek için, bilyenin iyi aydınlatılmış ve odakta olduğundan ve görüntünün başka nesneler veya arka planlar içermediğinden emin olun. Sistem, kısmen örtülü olan veya karmaşık desenlere veya yüzey dokularına sahip olan mermerleri doğru bir şekilde analiz edemeyebilir.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

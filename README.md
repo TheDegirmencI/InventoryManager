@@ -128,7 +128,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | 190541004 Ali İmran Atabey  | Yapay zeka dev.| 
 | 190541087 Seydi Sarıtaş   | Front End dev. - Scrum Master | 
 | 210541101 Aslan Koyuncu | Back end dev. |
-
+#
 ## Sprint - 1
 
 | Assigned to  | User Story  | Toplam SP |

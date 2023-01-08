@@ -166,6 +166,69 @@ Herkesin iyi olduğu alanları belirledik ve herkese ona göre iş dağılımı 
 | Aslan Koyuncu | DigitalOgean vs heroku araştırması [13sp] | 13sp |
 | Abdullah Samet bayraktar | MVC / Auth Kurulumu [13Sp] | 13sp |
 
+### Sprint 2 çıktıları: 
+Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre dağıtırsak gün sonunda projeyi entegre edip ayağa kaldırmamız mümkün olmayacak. Örneğin Sprint1 sonucunda kafamızdaki düşünce şu şekildeydi
+- authentication geliştirmelerini .net ile yapalım 
+- şifreleme (blokzincir) geliştirmelerini .net tarafında yapalım
+- image'i karşılayacak api'yi flask ile yazalım
+### Sprint 2 sonucunda ise:
+- authentication geliştirmeleri için sıfırdan bir yapıp kurmak yerine Auth0 modülünü kullanalım
+- Şifreleme geliştirmelerini yapmayalım.(Zamanımız yok vizeler geliyor)
+- Api'leri tamamını flask'da yazalım
+- Derin öğrenme uygulamasında sınıflandırma modellerini oluşturalım. Her sprint yeni bir özelliği mevcut modele entegre edelim. Bu sprint sonunda mermerin çatlak,damarlı,kırık gibi özelliklerini çıkartalım şeklinde kararlar aldık. 
+- İlk özelliğimizi eğittik. Renk Sınıflandırma işlemlerini tamamladık.
+
+## Sprint - 3
+
+| Assigned to  | User Story  | Toplam SP |
+| :-----: | :---: | :---: |
+| seydi sarıtaş   | auth0 next.js implementasyonu[13SP] Next.js uygulamasını yayına almak [13sp] | 26sp |
+| bünyamin kiremit | - |  |
+| mehmetcan tozlu | svm ile modelin tekrar yazılması [13sp] | 13sp |
+| ömer faruk konca | - |  |
+| Abdurrahman Pülat | testrial kurulumu yapılacak ve test senaryosu yazılacak[13sp] | 13sp  |
+| hasan demir | - |  |
+| ali imran atabey | -| |
+| batuhan şen | Flask Öğrenme /araştırma POC [13Sp] | 13sp |
+| abdullah yıldız | Selenium Test Otomasyonu yazılarak Login sayfası test edildi | 13sp |
+| salihcan özdemir | Logo oluşturma [8sp] | 8sp  |
+| Aslan Koyuncu | DigitalOgean docker kurulumu [13sp] | 13sp |
+| Abdullah Samet bayraktar | Flask-Web api yazılması [13Sp] | 13sp |
+
+### Sprint 3 çıktıları : 
+- Sprint 3 sonucunda authentication işlemleri için kullandığımız auth0 modülünü uygulamamıza entegre ettik ve yayına aldık.
+- İkinci özelliğimizi eğittik. Desen özelliklerine göre sınıflandırma işlemlerini tamamladık
+- Flask framework'ünü öğrendik 
+- Flask tarafında image'i karşılayacak api'mizi yazdık. 
+- Flask uygulamasını nigx ile configure ettik --> --> http://137.184.189.251/api
+- Login sayfasının test otomasyon süreçlerini tamamladık.
+
+## Sprint - 4
+
+| Assigned to  | User Story  | Toplam SP |
+| :-----: | :---: | :---: |
+| seydi sarıtaş   | http to https protokol dönüşümü yapılmalı.Ssl sertifikası eklenecek [SPIKE][5SP] | 5sp |
+| bünyamin kiremit | - |  |
+| mehmetcan tozlu | çatlak mermer model sınıflandırması [13sp], iyi düzeyde mermer model sınıflandırması [13sp] | 26sp |
+| ömer faruk konca | - |  |
+| Abdurrahman Pülat | manuel test yapılacak [5sp] | 5sp |
+| hasan demir | - |  |
+| ali imran atabey | -| |
+| batuhan şen | Google Cloud vs Firebase free hosting karşılaştırılması [SPIKE][5SP] | 5sp |
+| abdullah yıldız | Manuel testler yapılacak. | 13sp |
+| salihcan özdemir | Proje'de kullanılan front end frameworklerin öğrenilmesi[13sp] | 13sp  |
+| Aslan Koyuncu | Güvenlik açıklarının araştırılması(Pentest, netsparker taraması) [13sp] | 13sp  |
+| Abdullah Samet bayraktar | Vercel vs AWS hosting karşılaştırılması [SPIKE] [5SP] | 5sp |
+
+### Sprint 4 çıktıları : 
+- Modeli geliştirmeye devam ettik. Renk,çatlak,damarlı ve iyi özelliklerine göre sınıflandırma işlemlerini tamamladık.
+- Sonraki sprint noktali ve açık_orta işlemlerini tamamlamayı planladık.
+- Back-end uygulamamızı digitalocean'da yayına aldık ancak aylık 50$ ücreti olduğunu öğrenince işlemi geri çektik.(İlk ay ücretsiz özelliğini kullandık ve https protokol dönüşümü yapmamız gerektiğini burada fark ettik.)
+- Docker öğrenmeye devam ettik. Projede aktif olarak kullandık.
+- Back-end uygulamamızı ücretsiz host edebileceğimiz platformları araştırma kararı aldık.
+- Logomuzu tasarladık front end tarafını iyileştirdik. --> https://guncel.vercel.app/
+- Güvenlik açıkları için araştırma yapmaya karar verdik. Netsparker taraması yapacağız.
+- Manuel test süreçlerini ilerlettik.
 
 ## Projenin Kullanımı
 Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:

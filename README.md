@@ -107,7 +107,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Mercik Grubu 
 - https://guncel.vercel.app/
 - Her Sprint 2 haftadan oluşur
 - Story Pointler Fibonacci sayılarından oluşur(1,3,5,8,13,21) Yapılacak işin karmaşıklığını ifade eder.

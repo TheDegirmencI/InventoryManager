@@ -80,8 +80,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Proje Hakkında -->
+## Proje Hakkında
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -92,7 +92,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 
 
 
-### Built With
+### Kullanılan Teknolojiler
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 

@@ -52,9 +52,9 @@
   <summary>İçindekiler</summary>
   <ol>
     <li>
-      <a href="#Proje-Hakkında">About The Project</a>
+      <a href="#Proje-Hakkında">Proje Hakkında</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Kullanılan-Teknolijiler">Kullanılan Teknolojiler</a></li>
       </ul>
     </li>
     <li>

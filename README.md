@@ -128,10 +128,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | Ercan Satık | Veri setlerinin toplanması | 5sp |
 
 ### Sprint 1 Sonuçları
-Hedef: Proje için potansiyel Front-end frameworkleri araştırmak ve değerlendirmek
-Görevlendirildi: Osman Karadeniz
-Çıktılar: Web test teknolojileri karşılaştırma raporu
-Sonuç: Karşılaştırma raporuna dayanarak hangi ön uç çerçevesinin kullanılacağına karar verilir
+- Hedef: Proje için potansiyel Front-end frameworkleri araştırmak ve değerlendirmek
+- Görevlendirildi: Osman Karadeniz
+- Çıktılar: Web test teknolojileri karşılaştırma raporu
+- Sonuç: Karşılaştırma raporuna dayanarak hangi ön uç çerçevesinin kullanılacağına karar verilir
 ## Sprint - 2
 
 | Atama | Görev Tanımı  | Görev Süresi |

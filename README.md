@@ -124,7 +124,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Web test teknolojileri karşılaştırma raporu|  |
 | Gönenç Değirmencioğlu | Gerekli olan   |  |
-| Ali Kadir Bulut | - | 5sp |
+| Ali Kadir Bulut | - |  |
 | Ercan Satık | Veri setlerinin toplanması |  |
 
 ### Sprint 1 Sonuçları
@@ -136,10 +136,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | x| 18sp |
-| Gönenç Değirmencioğlu | y | 13sp |
-| Ali Kadir Bulut | z | 5sp |
-| Ercan Satık | v | 5sp |
+| Osman Karadeniz   | x|  |
+| Gönenç Değirmencioğlu | y |  |
+| Ali Kadir Bulut | z |  |
+| Ercan Satık | v |  |
 
 ### Sprint 2 Sonuçları
 Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre dağıtırsak gün sonunda projeyi entegre edip ayağa kaldırmamız mümkün olmayacak. Örneğin Sprint1 sonucunda kafamızdaki düşünce şu şekildeydi
@@ -151,10 +151,10 @@ Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre d
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | x| 18sp |
-| Gönenç Değirmencioğlu | y | 13sp |
-| Ali Kadir Bulut | z | 5sp |
-| Ercan Satık | v | 5sp |
+| Osman Karadeniz   | x|  |
+| Gönenç Değirmencioğlu | y |  |
+| Ali Kadir Bulut | z |  |
+| Ercan Satık | v |  |
 
 
 ### Sprint 3 Sonuçları 
@@ -169,10 +169,10 @@ Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre d
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | x| 18sp |
-| Gönenç Değirmencioğlu | y | 13sp |
-| Ali Kadir Bulut | z | 5sp |
-| Ercan Satık | v | 5sp |
+| Osman Karadeniz   | x|  |
+| Gönenç Değirmencioğlu | y |  |
+| Ali Kadir Bulut | z |  |
+| Ercan Satık | v |  |
 
 
 ### Sprint 4 Sonuçları : 

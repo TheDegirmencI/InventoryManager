@@ -116,13 +116,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 | Kişi  | Görevi |
 | :-----: | :---: | 
-| 170541050 Osman Karadeniz | Back End dev.|
-| 180541072 Gönenç Değirmencioğlu | Test Engineer|
+| 170541050 Osman Karadeniz | Full Stack Developer - Scrum Master|
+| 180541072 Gönenç Değirmencioğlu | Network Engineer|
 | 200541083 Ali Kadir Bulut | QA Engineer |
-| 180541062 Ercan Satık   | Front End dev. | 
-| 190541004 Ali İmran Atabey  | Yapay zeka dev.| 
-| 190541087 Seydi Sarıtaş   | Front End dev. - Scrum Master | 
-| 210541101 Aslan Koyuncu | Back end dev. |
+| 180541062 Ercan Satık   | Database Developer | 
 #
 ## Sprint - 1
 

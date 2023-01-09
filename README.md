@@ -102,7 +102,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 
@@ -188,7 +188,7 @@ Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:
 4. Sistem görüntüyü işleyecek ve ortaya çıkan kalite puanını ve raporu web sayfasında gösterecektir.
 5. Başka misketleri analiz etmek için 2-4 arası adımları tekrarlayın.
 Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edildiğini lütfen unutmayın. En iyi sonuçları elde etmek için, bilyenin iyi aydınlatılmış ve odakta olduğundan ve görüntünün başka nesneler veya arka planlar içermediğinden emin olun. Sistem, kısmen örtülü olan veya karmaşık desenlere veya yüzey dokularına sahip olan mermerleri doğru bir şekilde analiz edemeyebilir.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 
@@ -196,15 +196,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 ## SWOT Analizi
 
 [![Product Name Screen Shot][swot-screenshot]](http://mds23.pythonanywhere.com/)
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
@@ -224,7 +216,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 
@@ -233,18 +225,18 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Osman Karadeniz - [@osmankaradeniz](https://www.linkedin.com/in/osmankaradeniz/) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Proje Linki: [https://github.com/your_username/repo_name](http://mds23.pythonanywhere.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 
@@ -262,7 +254,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 

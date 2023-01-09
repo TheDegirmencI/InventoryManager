@@ -1,24 +1,5 @@
 
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -27,7 +8,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+<!-- LOGO -->
 <br />
 <div align="center">
   <a href="http://mds23.pythonanywhere.com/">
@@ -47,7 +28,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- İÇİNDEKİLER -->
 <details>
   <summary>İçindekiler</summary>
   <ol>
@@ -104,7 +85,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- GETTING STARTED -->
+<!-- Projenin Geliştirilme Aşaması -->
 ## Projenin Geliştirilme Aşaması
 
 - http://mds23.pythonanywhere.com/
@@ -190,7 +171,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 
 
 
-<!-- ROADMAP -->
+<!-- SWOT Analizi -->
 ## SWOT Analizi
 
 [![Product Name Screen Shot][swot-screenshot]](http://mds23.pythonanywhere.com/)
@@ -201,7 +182,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 
 
 
-<!-- CONTACT -->
+<!-- İletişim -->
 ## İletişim
 
 Osman Karadeniz - [@osmankaradeniz](https://www.linkedin.com/in/osmankaradeniz/) 
@@ -219,7 +200,7 @@ Fırat Üniversitesi Yazılım Mühendisliği Bölümü kurallarına uygun olara
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- lİNKLER -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/alikadirbulut/InventoryManager

@@ -83,7 +83,7 @@
 Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem geliştirmektir. Sistem, mermer resimlerini analiz etmek ve boyut, şekil ve yüzey kusurları gibi çeşitli faktörlere dayalı olarak kalitelerini belirlemek için görüntü işleme tekniklerini kullanacaktır. Sistemin çıktısı, mermerin genel kalitesini gösteren bir puanın yanı sıra dikkate alınan belirli faktörleri özetleyen ayrıntılı bir rapor olacaktır. Bu proje, üretim ortamlarında mermer kalite kontrolünün verimliliğini ve doğruluğunu artırmak ve mermer kalitesini değerlendirmek için daha tutarlı ve objektif bir yöntem sağlamak amacıyla geliştirilmektedir. Proje ekibi, görüntü işleme ve proje geliştirme konusunda uzman 7 üyeden oluşmaktadır 
 
 
-<p align="right">(<a href="#readme-top">başa dön</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 
@@ -113,10 +113,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 | Okul Numarası | Adı Soyadı  | Yetkinlik |
 | :-----:  | :-----: | :---: | 
-| 170541050 | Osman Karadeniz | Full Stack Developer - Scrum Master|
-| 180541072 | Gönenç Değirmencioğlu | Network Engineer|
+|  | Osman Karadeniz | Full Stack Developer - Scrum Master|
+|  | Gönenç Değirmencioğlu | Network Engineer|
 | 200541083 | Ali Kadir Bulut | QA Engineer |
-| 180541062 | Ercan Satık   | Database Developer | 
+|  | Ercan Satık   | Database Developer | 
 #
 ## Sprint - 1
 
@@ -126,34 +126,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | Gönenç Değirmencioğlu | y | 13sp |
 | Ali Kadir Bulut | z | 5sp |
 | Ercan Satık | v | 5sp |
-| ömer faruk konca | renk sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |
-| Abdurrahman Pülat | manuel, alfa,beta testi için kullanılacak araçların araştırılması[SPIKE][5sp] | 5sp |
-| hasan demir | damar sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |
-| ali imran atabey | - | 5sp |
-| batuhan şen | MVC / Auth [POC][13Sp] | 13sp |
-| abdullah yıldız | kullanılacak test otomasyonu için araştırma[SPIKE][5sp] | 5sp |
-| salihcan özdemir | 1.Kullanılacak Teknojilerin Araştırılması[SPIKE][5sp], 2. Vue.js vs Svelte.js[POC][13sp] | 18sp
-| Abdullah Samet bayraktar |  MVC / Auth [POC][13Sp] | 13sp |
-| Aslan Koyuncu | Veritabanı Karşılaştırması(MongoDB, PostgreSQL)[13sp] | 13sp
 
 ### Sprint 1 Sonuçları
 Herkesin iyi olduğu alanları belirledik ve herkese ona göre iş dağılımı yaptık. 
 ## Sprint - 2
 
-| Assigned to  | User Story  | Toplam SP |
+| Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| seydi sarıtaş   | Next.js Kurulumu[13sp], Auth0[POC][13sp], | 26sp |
-| bünyamin kiremit | - |  |
-| mehmetcan tozlu | sınıflandırma modellerinin oluştulması[13sp] | 13sp |
-| ömer faruk konca | renk sınıflandırma modellerinin oluşturulması [13sp] | 13sp |
-| Abdurrahman Pülat | manuel test aracı testrial araştırması yapıldı [SPIKE] [5SP]| 5sp |
-| hasan demir | damar sınıflandırma modellerinin oluşturulması [13sp] | 13sp |
-| ali imran atabey | -|  |
-| batuhan şen | MVC / Auth Kurulumu [13Sp] | 13sp |
-| abdullah yıldız | selenium kurulumu [13sp] | 13sp |
-| salihcan özdemir |Tasarım araştırmaları [SPIKE] [13SP] | 13sp |
-| Aslan Koyuncu | DigitalOgean vs heroku araştırması [13sp] | 13sp |
-| Abdullah Samet bayraktar | MVC / Auth Kurulumu [13Sp] | 13sp |
+| Osman Karadeniz   | x| 18sp |
+| Gönenç Değirmencioğlu | y | 13sp |
+| Ali Kadir Bulut | z | 5sp |
+| Ercan Satık | v | 5sp |
 
 ### Sprint 2 Sonuçları
 Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre dağıtırsak gün sonunda projeyi entegre edip ayağa kaldırmamız mümkün olmayacak. Örneğin Sprint1 sonucunda kafamızdaki düşünce şu şekildeydi
@@ -163,20 +146,13 @@ Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre d
 
 ## Sprint 3
 
-| Assigned to  | User Story  | Toplam SP |
+| Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| seydi sarıtaş   | auth0 next.js implementasyonu[13SP] Next.js uygulamasını yayına almak [13sp] | 26sp |
-| bünyamin kiremit | - |  |
-| mehmetcan tozlu | svm ile modelin tekrar yazılması [13sp] | 13sp |
-| ömer faruk konca | - |  |
-| Abdurrahman Pülat | testrial kurulumu yapılacak ve test senaryosu yazılacak[13sp] | 13sp  |
-| hasan demir | - |  |
-| ali imran atabey | -| |
-| batuhan şen | Flask Öğrenme /araştırma POC [13Sp] | 13sp |
-| abdullah yıldız | Selenium Test Otomasyonu yazılarak Login sayfası test edildi | 13sp |
-| salihcan özdemir | Logo oluşturma [8sp] | 8sp  |
-| Aslan Koyuncu | DigitalOgean docker kurulumu [13sp] | 13sp |
-| Abdullah Samet bayraktar | Flask-Web api yazılması [13Sp] | 13sp |
+| Osman Karadeniz   | x| 18sp |
+| Gönenç Değirmencioğlu | y | 13sp |
+| Ali Kadir Bulut | z | 5sp |
+| Ercan Satık | v | 5sp |
+
 
 ### Sprint 3 Sonuçları 
 - Sprint 3 sonucunda authentication işlemleri için kullandığımız auth0 modülünü uygulamamıza entegre ettik ve yayına aldık.
@@ -188,20 +164,13 @@ Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre d
 
 ## Sprint 4
 
-| Assigned to  | User Story  | Toplam SP |
+| Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| seydi sarıtaş   | http to https protokol dönüşümü yapılmalı.Ssl sertifikası eklenecek [SPIKE][5SP] | 5sp |
-| bünyamin kiremit | - |  |
-| mehmetcan tozlu | çatlak mermer model sınıflandırması [13sp], iyi düzeyde mermer model sınıflandırması [13sp] | 26sp |
-| ömer faruk konca | - |  |
-| Abdurrahman Pülat | manuel test yapılacak [5sp] | 5sp |
-| hasan demir | - |  |
-| ali imran atabey | -| |
-| batuhan şen | Google Cloud vs Firebase free hosting karşılaştırılması [SPIKE][5SP] | 5sp |
-| abdullah yıldız | Manuel testler yapılacak. | 13sp |
-| salihcan özdemir | Proje'de kullanılan front end frameworklerin öğrenilmesi[13sp] | 13sp  |
-| Aslan Koyuncu | Güvenlik açıklarının araştırılması(Pentest, netsparker taraması) [13sp] | 13sp  |
-| Abdullah Samet bayraktar | Vercel vs AWS hosting karşılaştırılması [SPIKE] [5SP] | 5sp |
+| Osman Karadeniz   | x| 18sp |
+| Gönenç Değirmencioğlu | y | 13sp |
+| Ali Kadir Bulut | z | 5sp |
+| Ercan Satık | v | 5sp |
+
 
 ### Sprint 4 Sonuçları : 
 - Modeli geliştirmeye devam ettik. Renk,çatlak,damarlı ve iyi özelliklerine göre sınıflandırma işlemlerini tamamladık.
@@ -239,7 +208,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 
 
 

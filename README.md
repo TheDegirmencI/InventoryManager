@@ -65,7 +65,7 @@
       </ul>
     </li>
     <li><a href="#Projenin-Kullanımı">Projenin Kullanımı</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#SWOT-Analizi">SWOT Analizi</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>

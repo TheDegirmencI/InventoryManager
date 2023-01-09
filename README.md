@@ -78,7 +78,7 @@
 <!-- Proje Hakkında -->
 ## Proje Hakkında
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](http://mds23.pythonanywhere.com/)
 
 Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem geliştirmektir. Sistem, mermer resimlerini analiz etmek ve boyut, şekil ve yüzey kusurları gibi çeşitli faktörlere dayalı olarak kalitelerini belirlemek için görüntü işleme tekniklerini kullanacaktır. Sistemin çıktısı, mermerin genel kalitesini gösteren bir puanın yanı sıra dikkate alınan belirli faktörleri özetleyen ayrıntılı bir rapor olacaktır. Bu proje, üretim ortamlarında mermer kalite kontrolünün verimliliğini ve doğruluğunu artırmak ve mermer kalitesini değerlendirmek için daha tutarlı ve objektif bir yöntem sağlamak amacıyla geliştirilmektedir. Proje ekibi, görüntü işleme ve proje geliştirme konusunda uzman 7 üyeden oluşmaktadır 
 
@@ -193,6 +193,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 <!-- ROADMAP -->
 ## SWOT Analizi
 
+[![Product Name Screen Shot][swot-screenshot]](http://mds23.pythonanywhere.com/)
 - [x] Add Changelog
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
@@ -294,3 +295,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[swot-screenshot]: images/SWOT.png

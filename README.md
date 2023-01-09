@@ -122,10 +122,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | Web test teknolojileri karşılaştırma raporu| 18sp |
-| Gönenç Değirmencioğlu | Gerekli olan   | 13sp |
+| Osman Karadeniz   | Web test teknolojileri karşılaştırma raporu|  |
+| Gönenç Değirmencioğlu | Gerekli olan   |  |
 | Ali Kadir Bulut | - | 5sp |
-| Ercan Satık | Veri setlerinin toplanması | 5sp |
+| Ercan Satık | Veri setlerinin toplanması |  |
 
 ### Sprint 1 Sonuçları
 - Hedef: Proje için potansiyel Front-end frameworkleri araştırmak ve değerlendirmek

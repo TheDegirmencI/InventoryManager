@@ -69,7 +69,7 @@
     <li><a href="#Projenin-Kullanımı">Projenin Kullanımı</a></li>
     <li><a href="#SWOT-Analizi">SWOT Analizi</a></li>
     <li><a href="#İletişim">İletişim</a></li>
-    <li><a href="#Beyan">Acknowledgments</a></li>
+    <li><a href="#Beyan">Beyan</a></li>
   </ol>
 </details>
 

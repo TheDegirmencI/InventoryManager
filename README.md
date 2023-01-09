@@ -60,8 +60,10 @@
     <li>
       <a href="#Projenin-Geliştirilme-Aşaması">Projenin Geliştirilme Aşaması</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Sprint-1">Sprint-1</a></li>
+        <li><a href="#Sprint-2">Sprint-2</a></li>
+        <li><a href="#Sprint-3">Sprint-3</a></li>
+        <li><a href="#Sprint-4">Sprint-4</a></li>
       </ul>
     </li>
     <li><a href="#Projenin-Kullanımı">Projenin Kullanımı</a></li>

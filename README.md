@@ -234,7 +234,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Osman Karadeniz - [@osmankaradeniz](https://www.linkedin.com/in/osmankaradeniz/) 
 
-Proje Linki: [https://github.com/your_username/repo_name](http://mds23.pythonanywhere.com/)
+Proje Linki: [http://mds23.pythonanywhere.com/](http://mds23.pythonanywhere.com/)
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
 

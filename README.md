@@ -39,7 +39,7 @@
   <p align="center">
     Mermer Doğrulama Sistemi 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="http://mds23.pythonanywhere.com/"><strong>Uygulamamızı Deneyin »</strong></a>
     <br />
 
   </p>

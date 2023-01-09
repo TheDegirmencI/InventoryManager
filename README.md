@@ -107,28 +107,25 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-- https://guncel.vercel.app/
-- Her Sprint 2 haftadan oluşur
-- Story Pointler Fibonacci sayılarından oluşur(1,3,5,8,13,21) Yapılacak işin karmaşıklığını ifade eder.
-- Spike Maddelerinin story point'i 5'dir
-- POC Maddelerinin story pointleri işe göre değişmektedir.
+- http://mds23.pythonanywhere.com/
+- Her Sprint 3 haftadan oluşur
 - Her tablo bir sprint'i ifade eder.
 
-| Kişi  | Görevi |
-| :-----: | :---: | 
-| 170541050 Osman Karadeniz | Full Stack Developer - Scrum Master|
-| 180541072 Gönenç Değirmencioğlu | Network Engineer|
-| 200541083 Ali Kadir Bulut | QA Engineer |
-| 180541062 Ercan Satık   | Database Developer | 
+| Okul Numarası | Adı Soyadı  | Yetkinlik |
+| :-----: | | :-----: | :---: | 
+| 170541050 | Osman Karadeniz | Full Stack Developer - Scrum Master|
+| 180541072 | Gönenç Değirmencioğlu | Network Engineer|
+| 200541083 | Ali Kadir Bulut | QA Engineer |
+| 180541062 | Ercan Satık   | Database Developer | 
 #
 ## Sprint - 1
 
-| Assigned to  | User Story  | Toplam SP |
+| Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| seydi sarıtaş   | Front end için kullanılacak güncel javascript frameworklerinin araştırılması[SPIKE][5sp], Next.js vs React.js[POC][13sp]| 18sp |
-| batuhan şen | MVC / Auth [POC][13Sp] | 13sp |
-| bünyamin kiremit | Veri seti araştırmaları [SPIKE][5Sp] | 5sp |
-| mehmetcan tozlu | sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |
+| Osman Karadeniz   | x| 18sp |
+| Gönenç Değirmencioğlu | y | 13sp |
+| Ali Kadir Bulut | z | 5sp |
+| Ercan Satık | v | 5sp |
 | ömer faruk konca | renk sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |
 | Abdurrahman Pülat | manuel, alfa,beta testi için kullanılacak araçların araştırılması[SPIKE][5sp] | 5sp |
 | hasan demir | damar sınıflandırma modellerinin araştırılması[SPIKE][5sp] | 5sp |

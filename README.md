@@ -122,68 +122,60 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | Web test teknolojileri karşılaştırma raporu|  |
-| Gönenç Değirmencioğlu | Gerekli olan   |  |
-| Ali Kadir Bulut | - |  |
-| Ercan Satık | Veri setlerinin toplanması |  |
+| Osman Karadeniz   | potansiyel Front-end frameworkleri araştırmak ve değerlendirmek| 3 hafta |
+| Gönenç Değirmencioğlu | potansiyel Back-end teknolojilerini araştırmak ve değerlendirmek  | 3 hafta |
+| Ali Kadir Bulut | - | - |
+| Ercan Satık | Veri setlerinin toplanması | 3 hafta |
 
 ### Sprint 1 Sonuçları
-- Hedef: Proje için potansiyel Front-end frameworkleri araştırmak ve değerlendirmek
-- Görevlendirildi: Osman Karadeniz
-- Çıktılar: Web test teknolojileri karşılaştırma raporu
-- Sonuç: Karşılaştırma raporuna dayanarak hangi ön uç çerçevesinin kullanılacağına karar verilir
+- Hedef: Proje için potansiyel Front-end frameworkleri ve Back-end teknolojilerini araştırmak ve değerlendirmek.
+- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Ali Kadir Bulut
+- Çıktılar: Front-end ve Back-end teknolojilerinin karşılaştırma raporu.
+- Sonuç: Karşılaştırma raporuna dayanarak hangi front-end ve back-end teknolojileri kullanılacağına karar veridi
+
 ## Sprint - 2
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | x|  |
-| Gönenç Değirmencioğlu | y |  |
-| Ali Kadir Bulut | z |  |
-| Ercan Satık | v |  |
+| Osman Karadeniz   | Mermer Kalite Analizi İçin İhtiyaç Duyulan Algoritmanın Geliştirilmesi| 3 hafta  |
+| Gönenç Değirmencioğlu | Proje İçin Gerekli Olan Logo Tasarımı| 3 hafta  |
+| Ali Kadir Bulut | Veri Setinin Ayrıştırılması ve Etiketlenmesi | 1 hafta |
+| Ercan Satık | Geliştirilen Algoritmanın Testi | 2 hafta  |
 
 ### Sprint 2 Sonuçları
-Sprint 1 sonucunda fark ettik ki işleri herkesin bildiği teknolojilere göre dağıtırsak gün sonunda projeyi entegre edip ayağa kaldırmamız mümkün olmayacak. Örneğin Sprint1 sonucunda kafamızdaki düşünce şu şekildeydi
-- authentication geliştirmelerini .net ile yapalım 
-- şifreleme (blokzincir) geliştirmelerini .net tarafında yapalım
-- image'i karşılayacak api'yi flask ile yazalım
+- Hedef: Mermerin kalitesinin analiz edilebilmesi için eğitim , test ve doğrulama şeklinde ayrılan veri seti için Derin Öğrenme algoritması (CNN) kullanılarak geliştirilmesi.
+- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ercan Satık, Ali Kadir Bulut
+- Çıktılar: Modelin Başarıyla Eğitilmesi ve projenin logosunun belirlenmesi.
+
 
 ## Sprint 3
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | x|  |
-| Gönenç Değirmencioğlu | y |  |
-| Ali Kadir Bulut | z |  |
-| Ercan Satık | v |  |
+| Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Front-end tarafının Geliştirilmesi| 3 hafta |
+| Gönenç Değirmencioğlu | THS Seviyelerinin Dökümantasyonu | 3 hafta |
+| Ali Kadir Bulut | Canlı Ortamdaki Ürünün Testi  | 3 hafta |
+| Ercan Satık | Veritabanının Canlı Ortama Bağlanması | 3 hafta |
 
 
 ### Sprint 3 Sonuçları 
-- Sprint 3 sonucunda authentication işlemleri için kullandığımız auth0 modülünü uygulamamıza entegre ettik ve yayına aldık.
-- İkinci özelliğimizi eğittik. Desen özelliklerine göre sınıflandırma işlemlerini tamamladık
-- Flask framework'ünü öğrendik 
-- Flask tarafında image'i karşılayacak api'mizi yazdık. 
-- Flask uygulamasını nigx ile configure ettik --> --> http://137.184.189.251/api
-- Login sayfasının test otomasyon süreçlerini tamamladık.
-
+- Hedef: Geliştirilmiş mermer analiz algoritmasının front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
+- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ali Kadir Bulut, Ercan Satık
+- Çıktılar: Front-end tarafının geliştirilmesi, THS seviyelerinin dökümantasyonu, canlı ortamdaki ürünün testi ve veritabanının canlı ortama bağlanması.
 ## Sprint 4
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
-| Osman Karadeniz   | x|  |
-| Gönenç Değirmencioğlu | y |  |
-| Ali Kadir Bulut | z |  |
-| Ercan Satık | v |  |
+| Osman Karadeniz   | Projenin Tam Entegrasyonu Ve Canlı Ortama Aktarılması| 3 Hafta |
+| Gönenç Değirmencioğlu | Proje İçin SWOT Analizinin Yapılması | 3 Hafta |
+| Ali Kadir Bulut | Canlı Ortamdaki Projenin Fonksiyonel Testlerinin Yapılması | 2 hafta  |
+| Ercan Satık | Canlı Ortamdaki Projenin Fonksiyonel Olmayan Testlerin Yapılması | 2 hafta |
 
 
 ### Sprint 4 Sonuçları : 
-- Modeli geliştirmeye devam ettik. Renk,çatlak,damarlı ve iyi özelliklerine göre sınıflandırma işlemlerini tamamladık.
-- Sonraki sprint noktali ve açık_orta işlemlerini tamamlamayı planladık.
-- Back-end uygulamamızı digitalocean'da yayına aldık ancak aylık 50$ ücreti olduğunu öğrenince işlemi geri çektik.(İlk ay ücretsiz özelliğini kullandık ve https protokol dönüşümü yapmamız gerektiğini burada fark ettik.)
-- Docker öğrenmeye devam ettik. Projede aktif olarak kullandık.
-- Back-end uygulamamızı ücretsiz host edebileceğimiz platformları araştırma kararı aldık.
-- Logomuzu tasarladık front end tarafını iyileştirdik. --> https://guncel.vercel.app/
-- Güvenlik açıkları için araştırma yapmaya karar verdik. Netsparker taraması yapacağız.
-- Manuel test süreçlerini ilerlettik.
+- Hedef: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
+- Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ali Kadir Bulut, Ercan Satık
+- Çıktılar: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
 
 ## Projenin Kullanımı
 Mermer kalite tespit sistemini kullanmak için aşağıdaki adımları izleyin:

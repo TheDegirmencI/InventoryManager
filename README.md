@@ -112,7 +112,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Her tablo bir sprint'i ifade eder.
 
 | Okul Numarası | Adı Soyadı  | Yetkinlik |
-| :-----: | | :-----: | :---: | 
+| :-----:  | :-----: | :---: | 
 | 170541050 | Osman Karadeniz | Full Stack Developer - Scrum Master|
 | 180541072 | Gönenç Değirmencioğlu | Network Engineer|
 | 200541083 | Ali Kadir Bulut | QA Engineer |

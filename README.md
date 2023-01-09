@@ -154,8 +154,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | :-----: | :---: | :---: |
 | Osman Karadeniz   | Geliştirilmiş Olunan Mermer Analiz Algoritması İçin Front-end tarafının Geliştirilmesi| 3 hafta |
 | Gönenç Değirmencioğlu | THS Seviyelerinin Dökümantasyonu | 3 hafta |
-| Ali Kadir Bulut | Canlı Ortamdaki Ürünün Testi  | 3 hafta |
-| Ercan Satık | Veritabanının Canlı Ortama Bağlanması | 3 hafta |
+| Ali Kadir Bulut | Lokal Ortamdaki Ürünün Testi  | 3 hafta |
+| Ercan Satık | Veritabanının Lokal Ortama Bağlanması | 3 hafta |
 
 
 ### Sprint 3 Sonuçları 

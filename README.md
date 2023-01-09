@@ -20,7 +20,12 @@
 -->
 
 
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -100,7 +105,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Projenin Geliştirilme Aşaması
 
 - http://mds23.pythonanywhere.com/
 - Her Sprint 3 haftadan oluşur
@@ -113,7 +118,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | 200541083 | Ali Kadir Bulut | QA Engineer |
 |  | Ercan Satık   | Database Developer | 
 #
-## Sprint - 1
+## Sprint 1
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
@@ -128,7 +133,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Çıktılar: Front-end ve Back-end teknolojilerinin karşılaştırma raporu.
 - Sonuç: Karşılaştırma raporuna dayanarak hangi front-end ve back-end teknolojileri kullanılacağına karar veridi
 
-## Sprint - 2
+## Sprint 2
 
 | Atama | Görev Tanımı  | Görev Süresi |
 | :-----: | :---: | :---: |
@@ -167,7 +172,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | Ercan Satık | Canlı Ortamdaki Projenin Fonksiyonel Olmayan Testlerin Yapılması | 2 hafta |
 
 
-### Sprint 4 Sonuçları : 
+### Sprint 4 Sonuçları  
 - Hedef: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
 - Görevlendirildi: Osman Karadeniz, Gönenç Değirmencioğlu, Ali Kadir Bulut, Ercan Satık
 - Çıktılar: Projenin tam entegrasyonu ve canlı ortama aktarma, SWOT analizi yapılması, canlı ortamdaki projenin fonksiyonel ve fonksiyonel olmayan testlerinin yapılması.
@@ -186,7 +191,7 @@ Sistemin tek tek mermerlerin yüksek kaliteli görüntüleri için optimize edil
 
 
 <!-- ROADMAP -->
-## Roadmap
+## SWOT Analizi
 
 - [x] Add Changelog
 - [x] Add back to top links

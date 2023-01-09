@@ -69,9 +69,7 @@ Bu projenin amacı, mermerlerin kalitesini tespit etmek için bir sistem gelişt
 
 
 ## Kullanılan Teknolojiler
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+Kullandığımız teknolojilerin detaylı bilgilerine bu linkler üzerinden ilerleyebilirsiniz
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
